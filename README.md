@@ -4,6 +4,8 @@
 
 * Counter Dapp example https://docs.midnight.network/develop/tutorial/building/counter-build
 
+* Compact counter: https://github.com/claudebarde/compact-counter-test
+
 * Bulletin Board example: https://docs.midnight.network/develop/tutorial/creating/scenario
 
 * Hello World starter template https://github.com/CylinderAdmin/midnight-starter
