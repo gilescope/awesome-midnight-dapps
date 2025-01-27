@@ -15,3 +15,13 @@
 ## Tutorials:
 
 * Midnight Tutorial in Korean https://github.com/jungmyeong96/midnight_tutorial/tree/main
+
+## Battleships Implementations:
+ 
+* https://github.com/bricktowers/midnight-seabattle
+
+* https://github.com/eddex/midnight-sea-battle-hackathon
+
+* https://github.com/mediocrehacker/midnight-battleship
+
+* https://github.com/ErickRomeroDev/naval-battle-game_v2
