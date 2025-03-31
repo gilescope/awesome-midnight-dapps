@@ -12,17 +12,17 @@
 
 ## ZK Identity Hackathon entries:
 
-https://github.com/bricktowers/midnight-identity
+* https://github.com/bricktowers/midnight-identity
 
-https://github.com/ErickRomeroDev/midnight-identity-token
+* https://github.com/ErickRomeroDev/midnight-identity-token
 
-https://github.com/HeikkiRuhanen/ethiopian-identity-wallet
+* https://github.com/HeikkiRuhanen/ethiopian-identity-wallet
 
-https://github.com/midnames-protocol/MidnightHackathon
+* https://github.com/midnames-protocol/MidnightHackathon
 
-https://github.com/bytewizard42i/SentinelDID-poc
+* https://github.com/bytewizard42i/SentinelDID-poc
 
-https://github.com/laughtt/face-recognition-midnight
+* https://github.com/laughtt/face-recognition-midnight
 
 ## Battleships Implementations:
  
