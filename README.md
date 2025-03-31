@@ -37,3 +37,10 @@
 ## Tutorials:
 
 * Midnight Tutorial in Korean https://github.com/jungmyeong96/midnight_tutorial/tree/main
+
+
+## Example Apps Repo
+
+A historical repo of the midnight example dapps is maintained here until an official one exists:
+
+https://github.com/gilescope/midnight-example-applications
