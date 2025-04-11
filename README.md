@@ -1,6 +1,6 @@
 # Unofficial midnight dapp list
 
-* Counter Dapp example https://docs.midnight.network/develop/tutorial/building/counter-build
+* [Counter Dapp example](https://github.com/midnightntwrk/example-counter) + [turtorial]( https://docs.midnight.network/develop/tutorial/building/counter-build )
 
 * Compact counter: https://github.com/claudebarde/compact-counter-test
 
@@ -44,3 +44,5 @@
 A historical repo of the midnight example dapps is maintained here until an official one exists:
 
 https://github.com/gilescope/midnight-example-applications
+
+( https://github.com/midnightntwrk/example-counter has now been put in a repo!)
