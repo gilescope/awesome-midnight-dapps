@@ -10,6 +10,8 @@
 
 * Anonymous Q+A dashboard https://github.com/ErickRomeroDev/hackathon-midnight-2
 
+* Overcollateralised privacy preserving stablecoin: https://github.com/LucentLabss/statera-protocol
+
 ## ZK Identity Hackathon entries:
 
 * https://github.com/bricktowers/midnight-identity
@@ -34,7 +36,30 @@
 
 * https://github.com/ErickRomeroDev/naval-battle-game_v2
 
+## Indexers / Block exploerers / Visualisations
+
+* https://github.com/mediocrehacker/Midnightscan (Rust / Leptos)
+
+* https://github.com/AIQUANT-Tech/explorer (JS / Next.js)
+ 
+* Fork of midnight-indexer adding an MCP server: https://github.com/semsorock/midnight-indexer
+
+* [Midnight Live View](https://github.com/Midnight-Scripts/Midnight-Live-View) (for SPO runners)
+
+## Tooling
+
+* dapp development framework: https://github.com/kaleababayneh/create-midnight-app
+ 
+* dapp development framework: https://github.com/kaleababayneh/scaffold-midnight
+
+* [midnightpy - Python SDK](https://github.com/Techgethr/midnightpy)
+  
+* Helm chart to install all components required to run a Midnight SPO: https://github.com/0xstrong/midnight-mnn-helm
+
 ## Tutorials:
+
+* [Midnight Forge](https://github.com/bytewizard42i/MidnightForge)
+  * Decentralised Identity, NFTs and tutorials. 
 
 * Midnight Tutorial in Korean https://github.com/jungmyeong96/midnight_tutorial/tree/main
 
