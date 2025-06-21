@@ -45,6 +45,12 @@
 * Fork of midnight-indexer adding an MCP server: https://github.com/semsorock/midnight-indexer
 
 * [Midnight Live View](https://github.com/Midnight-Scripts/Midnight-Live-View) (for SPO runners)
+ 
+* [Midnight Side Chain Monitoring](https://github.com/Midnight-Scripts/Midnight-Side-Chain-Monitoring)
+
+* Staking pool visualisation: https://midnight.poolinfo.me/ ( https://github.com/Midnight-Scripts/push-status )
+
+* Check registration: https://github.com/Midnight-Scripts/Check_Registration
 
 ## Tooling
 
