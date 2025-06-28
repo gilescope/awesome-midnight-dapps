@@ -1,5 +1,7 @@
 # Unofficial midnight dapp list
 
+(EDIT: There's now also an official repo: https://github.com/midnightntwrk/midnight-awesome-dapps )
+
 * [Counter Dapp example](https://github.com/midnightntwrk/example-counter) + [turtorial]( https://docs.midnight.network/develop/tutorial/building/counter-build )
 
 * Compact counter: https://github.com/claudebarde/compact-counter-test
