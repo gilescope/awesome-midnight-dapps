@@ -54,6 +54,10 @@
 
 * Check registration: https://github.com/Midnight-Scripts/Check_Registration
 
+## Contracts
+
+* Open Zeppelin contracts for ERC20 tokens and more: https://github.com/OpenZeppelin/compact-contracts
+
 ## Tooling
 
 * dapp development framework: https://github.com/kaleababayneh/create-midnight-app
