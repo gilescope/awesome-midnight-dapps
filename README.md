@@ -60,6 +60,8 @@
 
 ## Tooling
 
+* Midnight quick started: https://github.com/luislucena16/midnight-quick-starter
+  
 * dapp development framework: https://github.com/kaleababayneh/create-midnight-app
  
 * dapp development framework: https://github.com/kaleababayneh/scaffold-midnight
