@@ -38,6 +38,10 @@
 
 * https://github.com/ErickRomeroDev/naval-battle-game_v2
 
+## NFTs
+
+* [Midnight Kitties](https://github.com/riusricardo/midnight-kitties/blob/main/packages/contracts/kitties/src/kitties.compact)
+
 ## Indexers / Block exploerers / Visualisations
 
 * https://github.com/mediocrehacker/Midnightscan (Rust / Leptos)
