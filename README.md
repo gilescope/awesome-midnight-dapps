@@ -14,6 +14,32 @@
 
 * Overcollateralised privacy preserving stablecoin: https://github.com/LucentLabss/statera-protocol
 
+## 1AM Ecosystem
+
+A suite of products for building, deploying, and interacting with Midnight Network dApps.
+
+### Wallets
+
+* [1AM Wallet](https://1am.xyz) — Privacy-first browser wallet for Midnight with DApp Connector API, built-in ZK proving via ProofStation, and dust sponsorship. ([Chrome Extension](https://1am.xyz/install-beta))
+
+### dApps
+
+* [ZKMint](https://zkmint.1am.xyz) — Night-ID name service and ZK-powered token launchpad. Register `.night` names on-chain with zero-knowledge proofs. ([Source](https://github.com/webisoftSoftware/zk-mint))
+
+* [Dominion](https://dominion.fun) — On-chain poker with mental poker cryptography and ZK proofs.
+
+### Developer Tools
+
+* [1AM ProofStation](https://api.1am.xyz/docs) — Hosted ZK proof generation and dust sponsorship. DApps never need to run their own proof server.
+
+* [1AM Explorer](https://explorer.1am.xyz) — Block explorer for Midnight Network across all networks.
+
+* [1AM AI Builder](https://build.1am.xyz) — Build Midnight smart contracts with AI.
+
+* [Midnight Agent Skills](https://github.com/UvRoxx/midnight-agent-skills) — AI agent skills for Claude Code, Cursor, and Copilot. `npx midnight-agent-skills` ([npm](https://www.npmjs.com/package/midnight-agent-skills))
+
+* [1AM App Registry](https://github.com/webisoftSoftware/1AM-app-registery) — Open registry of dApps compatible with the 1AM wallet.
+
 ## ZK Identity Hackathon entries:
 
 * https://github.com/bricktowers/midnight-identity
