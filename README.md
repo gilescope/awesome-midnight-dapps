@@ -23,7 +23,7 @@
 ## 1AM Ecosystem
 
 ### [1AM Wallet](https://1am.xyz) — Browser Extension
-The privacy-first wallet for Midnight Network. DApp Connector API (`window.midnight['1AM']`), built-in ZK proving via ProofStation, dust sponsorship (users pay zero gas), multi-network (Preview, Preprod, Mainnet), side panel support. ([Install](https://1am.xyz/install-beta) | [Developer Docs](https://1am.xyz/developers))
+The privacy-first wallet for Midnight Network. DApp Connector API (`window.midnight['1AM']`), built-in ZK proving via ProofStation, dust sponsorship (users pay zero gas), multi-network (Preview, Preprod, Mainnet), side panel support. ([Install](https://chromewebstore.google.com/detail/1am/bphnkdkcnfhompoegfpgnkidcjfbojjp) | [Developer Docs](https://1am.xyz/developers))
 
 ### [1AM ProofStation](https://api.1am.xyz/docs) — Hosted ZK Proving
 Every Midnight transaction needs a ZK proof. ProofStation generates them in <1 second. It also balances transactions with dust so users don't need gas tokens. DApps never call it directly — the wallet handles it. Free tier for the ecosystem.
